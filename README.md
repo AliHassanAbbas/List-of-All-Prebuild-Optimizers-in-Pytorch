@@ -9,13 +9,13 @@ A notebook reference exploring optimizers available in PyTorch and their role in
 - Gradient-based optimization
 - Learning rates and optimizer parameters
 - Common PyTorch optimizer APIs
-- Configuring optimizers for model training
+- Configuring optimizers for training
 
 ## Run
-Open the notebook in Jupyter or Google Colab. Install PyTorch and follow the examples.
+Open in Jupyter or Google Colab, install PyTorch and run the examples.
 
 ## Scope
-A practical learning reference. Check the notebook for the exact optimizers, parameters and code examples covered.
+A practical learning reference. Check the notebook for the exact optimizers, parameters and examples.
 
 ## Author
 Ali Hassan Abbas | [GitHub](https://github.com/AliHassanAbbas)
